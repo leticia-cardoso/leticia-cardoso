@@ -1,6 +1,5 @@
 <h1>
     <a href="https://leticia-cardoso.github.io/">
-     <img align="center" alt="Logo Letícia Cardoso"></a>
     <span>Letícia Cardoso</span>
 </h1>
 
