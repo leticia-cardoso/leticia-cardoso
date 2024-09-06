@@ -2,8 +2,6 @@
     <span>Letícia Cardoso</span>
 </h1>
 
-## Oiee! 👋
-
 - 👩‍💻 Atualmente estou em uma transição de carreira para Analista de dados
 
 - 📚 Estou estudando sobre práticas de plataformas de dados e linguagens de programação
