@@ -1,3 +1,9 @@
+<h1>
+    <a href="https://leticia-cardoso.github.io/">
+     <img align="center" alt="Logo Letícia Cardoso"></a>
+    <span>Letícia Cardoso</span>
+</h1>
+
 ## Oiee! 👋
 
 - 👩‍💻 Atualmente estou em uma transição de carreira para Analista de dados
@@ -10,6 +16,6 @@
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:Green)](https://www.linkedin.com/in/leticia-cardoso-/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/leticia-cardoso-/)
 
 
