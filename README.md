@@ -6,7 +6,7 @@
 
 - 📚 Estou estudando sobre práticas de plataformas de dados e linguagens de programação
 
-- ⚡ Fun fact: Eu adoro ouvir música, jogos online e sou apaixonada por tecnologia ❤️
+- ⚡ Fun fact: Eu adoro música, jogos e tecnologia ❤️
 
 
 
