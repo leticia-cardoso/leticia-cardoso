@@ -2,11 +2,11 @@
     <span>Letícia Cardoso</span>
 </h1>
 
-- 👩‍💻 Atualmente estou em uma transição de carreira para Análise de dados
+- 👩‍💻 Me aperfeiçoando na carreira de Análise de dados
 
 - 📚 Estou estudando sobre práticas de plataformas de dados e linguagens de programação
 
-- ⚡ Fun fact: Eu adoro música, jogos e tecnologia ❤️
+- ⚡ Adoro música, jogos e tecnologia ❤️
 
 
 
