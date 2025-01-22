@@ -12,7 +12,8 @@
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&)](https://www.linkedin.com/in/leticia-cardoso-/)
+<a href="https://www.linkedin.com/in/leticia-cardoso-/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+
 
 
 <h3 align="left">Habilidades:</h3>
